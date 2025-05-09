@@ -1,4 +1,4 @@
-# dspitza.github.io
+# Dominik Spitza
 <!DOCTYPE html>
 <html>
 	<head>
