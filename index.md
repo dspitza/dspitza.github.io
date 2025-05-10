@@ -22,22 +22,21 @@ Recruiting staff and managing reliable service providers in an international con
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">Milestones of my work</button>
 <div id="abstract_click_search_scopes" class="abstract">
-<ul><li>2023: I have spearheaded the conceptualization, development and implementation of a web-based guest management system as part of the "digitalization of recurring processes".</li>
-<li>2022: I held the overall project management role for a change management process, redesigning over 800 event landing pages, enhancing external communication, user experience and design consistency.</li> 
-<li>2021: My team was responsible for nationwide communication with 150 federal employment agencies as part of a research project commissioned by the Federal Ministry (BMAS).</li> 
-<li>2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</li> </ul>
+<ul>2023: I have spearheaded the conceptualization, development and implementation of a web-based guest management system as part of the "digitalization of recurring processes".
+2022: I held the overall project management role for a change management process, redesigning over 800 event landing pages, enhancing external communication, user experience and design consistency. 
+2021: My team was responsible for nationwide communication with 150 federal employment agencies as part of a research project commissioned by the Federal Ministry (BMAS).
+2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</ul>
 </div>
 
-<button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">Event highlights</button>
-<div id="abstract_click_search_scopes" class="abstract">
-<li>•	World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London
-•	24th EALE Conference 2012 | WCCB (former House of Representatives, Bonn)
-•	AEA ASSA Meetings | in Boston, San Diego, Philadelphia
-•	Topic Workshops | Environment, Climate, Education, Migration, Gender, Data
-•	Policy Workshops | OECD, European Commission, BMAS & BMFSFJ
-•	IZA Summer Schools | Berlin, Bonn, am Ammersee 
-•	Tower Talks at Deutsche Post | with Friedrich Merz, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell
-</li> 
+<button class="show-button" onclick="toggleAbstract('abstract_click_monopsony')">Event highlights</button>
+<div id="abstract_click_monopsony" class="abstract">
+<ul><li>World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London</li> 
+<ul><li>24th EALE Conference 2012 | WCCB (former House of Representatives, Bonn)</li> 
+<li>AEA ASSA Meetings | in Boston, San Diego, Philadelphia</li> 
+<li>Topic Workshops | Environment, Climate, Education, Migration, Gender, Data</li> 
+<li>Policy Workshops | OECD, European Commission, BMAS & BMFSFJ</li> 
+<li>IZA Summer Schools | Berlin, Bonn, am Ammersee </li> 
+<li>Tower Talks at Deutsche Post | with Friedrich Merz, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</li> </ul>
 </div>
 
 #### Job Search and Employer Market Power
