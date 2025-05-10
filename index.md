@@ -12,11 +12,13 @@
 ####  IZA - Institute of Labor Economics
 2012 - today
 
-*My key responsibilities include: Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization*
+*My key responsibilities include: Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization*
 
-*I serve as the central interface between all departments (CEO, CFO, PR, HR, IT, Accounting, Legal, Research Units), integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network. I manage the “IZA Call for Papers” Newsletter and coordinate the seminar & visiting scholar program.*
+*I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network.*
 
-*I have successfully optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
+I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar & visiting scholar program.
+
+*I have successfully optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.*
 
 *Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.*
 
