@@ -1,11 +1,12 @@
 # Welcome to my webpage!
 
-- I'm Head of Event & Guest Management at IZA - Institute of Labor Economics. I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide and am an expert for project management, customer support and administrative consulting supporting researcher's visions. 
+- My name is Dominik Spitza and I am an expert for scientific project management, customer support and administrative Consulting to support researchers’ visions and projects.
+- As Head of Event & Guest Management at IZA - Institute of Labor Economics of Deutsche Post Stiftung. I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
 - I obtained my diploma in business administration and China Studies from the University of Cologne in Germany with a focus on marketing, brand management and business psychology.
 
 ***
 
-## Research 
+## Professional Experience 
 
 
 ####  Labor market imbalances, job search scopes and job finding
