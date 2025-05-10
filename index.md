@@ -61,33 +61,47 @@ BMAS Researchreports 2021-2024 (German)
     <li>“Red Bull Flugtag” (2006).</li></ul>
 </div>
 ***
-### Freelance
+## Freelance
 
 #### OSK 
 2009 - 2012
 
+*Strategic research and analysis projects for automotive infotainment and audio systems, e.g. on BMW Group. Concept and execution support for marketing activation e.g. “MINI in Concert” Roadshow, and “AMG Performance Tour”.*
 
 ***
 
-## Policy and tools
+## Certifications
 
-#### Swiss Job Tracker
+#### Leadership & Conflict Management
 
-- [A real-time index of open vacancy postings in Switzerland](http://swissjobtracker.ch/)
-- [Github](https://github.com/swissjobtracker/chjobtracker): R-code aggregating the scraped data from 70 job portals and 50K company webpages. I implemented an algorithm that deals with scraper issues and unstable job portals in real-time to obtain a clean index.
+Quadriga University certified, Berlin, Germany
+Title: Essential Skills for Executives; leadership styles, theories, tools and communication; e.g. DISG; conflict signlas; constructive conflict handling; sustainable conflict resolution.
 
-#### Policy reports & Media
 
-- [NZZaS: Studie zur zweiten Welle: 200 000 Selbständige fürchten um ihre Existenz](https://nzzas.nzz.ch/wirtschaft/zweite-welle-viele-selbstaendige-fuerchten-um-ihre-existenz-ld.1589295). 
-- [Launch Swissjobtracker on Swissinfo (SRG SSR)](https://www.swissinfo.ch/fre/toute-l-actu-en-bref/repli-du-nombre-d-offres-d-emplois-en-d%C3%A9cembre--%C3%A9tude-/48136458)
+#### Online-Marketing-Manager
 
-#### Teaching
+IHK certified, Cologne, Germany
+Online communication, website-analytics, conversions-tracking, SEO, ads, targeting, multi- & cross-channel-marketing.
 
-- During PhD: [Econometrics at the master's level (Course by Prof. M. Huber)](https://hecnet.unil.ch/hec/syllabus/descriptif/2551?dyn_lang=en)
+***
 
-### Other
+## Teaching
 
-- Together with Pascal Josephy, I founded the web design and web development agency jkweb in 2011 (at the age of 17). The company by now employs over 30 programmers, designers and other specialists in Zurich and Basel. jkweb has recently acquired novu and is now called [novu](https://novu.ch/). 
+#### China University of Mining & Technology 
+*German courses of culture and language at CUMT, Xuzhou for a Chinese student exchange program in cooperation with the University of Duisburg-Essen.*
+
+***
+
+## Education
+
+#### University of Cologne
+Diploma in Business Administration and China Studies (Regional Studies China)
+
+Marketing and Brand Management B.A., Prof. Völckner 
+Business Psychology B.A., Prof. Fetchenhauer
+Chinese Language, Modern China Studies (Law, culture, social sciences, history, literature)
+Thesis: Dirty Surplus Accounting – Presentation of International Accounting Standards and Systematization of Descriptive Empirical Findings, Prof. Sievers
+ 
 
 ***
 
