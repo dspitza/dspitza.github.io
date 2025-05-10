@@ -31,7 +31,7 @@ Recruiting staff and managing reliable service providers in an international con
 <button class="show-button" onclick="toggleAbstract('abstract_click_monopsony')">Event highlights</button>
 <div id="abstract_click_monopsony" class="abstract">
 <ul><li>World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London</li> 
-<ul><li>24th EALE Conference 2012 | WCCB (former House of Representatives, Bonn)</li> 
+<li>24th EALE Conference 2012 | WCCB (former House of Representatives, Bonn)</li> 
 <li>AEA ASSA Meetings | in Boston, San Diego, Philadelphia</li> 
 <li>Topic Workshops | Environment, Climate, Education, Migration, Gender, Data</li> 
 <li>Policy Workshops | OECD, European Commission, BMAS & BMFSFJ</li> 
