@@ -40,9 +40,8 @@ Recruiting staff and managing reliable service providers in an international con
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publication projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
-BMAS Forschungsreports 2021-2024 (German)
-<ul>BMAS Forschungsreports 2021-2024 (German)
-<li>[Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html)</li>
+BMAS Forschungsreports 2021-2024 (German) 
+<ul><li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html">Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete</a></li>
 <li>[Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html)</li>
 <li>[Evaluation der berufsbezogenen Deutschsprachförderung](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html)</li>
 </ul>
