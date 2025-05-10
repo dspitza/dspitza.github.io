@@ -49,17 +49,16 @@ BMAS Forschungsreports 2021-2024 (German)
 </ul>
 </div>
 
-## Freelance
-
 #### Red Bull
 2006 - 2012
-*Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief. 
-Highlights: “Rock am Ring” (2008 – 2011), “Red Bull Gravity Challenge” (2007) and “Red Bull Flugtag” (2006).
-*
+*Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief. *
+
 <button class="show-button" onclick="toggleAbstract('abstract_click_rb')">Publication projects</button>
 <div id="abstract_click_rb" class="abstract">
 <ul>“Rock am Ring” (2008 – 2011), “Red Bull Gravity Challenge” (2007) and “Red Bull Flugtag” (2006).</ul>
 </div>
+
+## Freelance
 
 #### OSK 
 2009 - 2012
