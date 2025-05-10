@@ -42,7 +42,7 @@ I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar &
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publication projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
-BMAS Forschungsreports 2021-2024 (German) 
+BMAS Researchreports 2021-2024 (German) 
 <ul><li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html">Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete</a></li>
 <li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html">Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie</a></li>
 <li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html">Evaluation der berufsbezogenen Deutschsprachförderung</a></li>
@@ -54,9 +54,11 @@ BMAS Forschungsreports 2021-2024 (German)
 
 *Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief.*
 
-<button class="show-button" onclick="toggleAbstract('abstract_click_rb')">Publication projects</button>
+<button class="show-button" onclick="toggleAbstract('abstract_click_rb')">Highlights</button>
 <div id="abstract_click_rb" class="abstract">
-<ul>“Rock am Ring” (2008 – 2011), “Red Bull Gravity Challenge” (2007) and “Red Bull Flugtag” (2006).</ul>
+<ul><li>“Rock am Ring” (2008 – 2011)</li>
+    <li>“Red Bull Gravity Challenge” (2007)</li>
+    <li>“Red Bull Flugtag” (2006).</li></ul>
 </div>
 ***
 ### Freelance
