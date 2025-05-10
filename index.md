@@ -57,8 +57,8 @@ BMAS Forschungsreports 2021-2024 (German)
 <div id="abstract_click_rb" class="abstract">
 <ul>“Rock am Ring” (2008 – 2011), “Red Bull Gravity Challenge” (2007) and “Red Bull Flugtag” (2006).</ul>
 </div>
-
-## Freelance
+***
+### Freelance
 
 #### OSK 
 2009 - 2012
