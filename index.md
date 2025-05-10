@@ -22,10 +22,10 @@ Recruiting staff and managing reliable service providers in an international con
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">Milestones of my work</button>
 <div id="abstract_click_search_scopes" class="abstract">
-<li>2023: I have spearheaded the conceptualization, development and implementation of a web-based guest management system as part of the "digitalization of recurring processes".</li>
+<ul><li>2023: I have spearheaded the conceptualization, development and implementation of a web-based guest management system as part of the "digitalization of recurring processes".</li>
 <li>2022: I held the overall project management role for a change management process, redesigning over 800 event landing pages, enhancing external communication, user experience and design consistency.</li> 
 <li>2021: My team was responsible for nationwide communication with 150 federal employment agencies as part of a research project commissioned by the Federal Ministry (BMAS).</li> 
-<li>2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</li> 
+<li>2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</li> </ul>
 </div>
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">Event highlights</button>
