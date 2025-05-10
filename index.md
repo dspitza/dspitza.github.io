@@ -1,7 +1,7 @@
 # Welcome to my webpage!
 
 - My name is Dominik Spitza and I am an expert for scientific project management, customer support and administrative Consulting to support researchers’ visions and projects.
-- As [Github](https://github.com/swissjobtracker/chjobtracker) [Head of Event & Guest Management] (https://www.iza.org/person/8053/dominik-spitza) at IZA - Institute of Labor Economics of Deutsche Post Stiftung. I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
+- As [Github](https://github.com/swissjobtracker/chjobtracker) [Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza) at IZA - Institute of Labor Economics of Deutsche Post Stiftung. I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
 - I obtained my diploma in business administration and China Studies from the University of Cologne in Germany with a focus on marketing, brand management and business psychology.
 
 ***
