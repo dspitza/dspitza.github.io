@@ -40,7 +40,7 @@ I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar &
 <li>Tower Talks at Deutsche Post | <i>with <b>Friedrich Merz</b>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul>
 </div>
 
-<button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publication projects</button>
+<button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publicated projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
 BMAS Researchreports 2021-2024 (German) 
 <ul><li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html">Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete</a></li>
