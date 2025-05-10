@@ -44,8 +44,8 @@ I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar &
 <div id="abstract_click_occ_mob" class="abstract">
 BMAS Forschungsreports 2021-2024 (German) 
 <ul><li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html">Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete</a></li>
-<li>[Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html)</li>
-<li>[Evaluation der berufsbezogenen Deutschsprachförderung](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html)</li>
+<li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html">Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie</a></li>
+<li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html">Evaluation der berufsbezogenen Deutschsprachförderung</a></li>
 </ul>
 </div>
 
