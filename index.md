@@ -48,7 +48,7 @@ BMAS Forschungsreports 2021-2024 (German)
 <li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html">Evaluation der berufsbezogenen Deutschsprachförderung</a></li>
 </ul>
 </div>
-
+***
 #### Red Bull
 2006 - 2012
 *Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief. *
