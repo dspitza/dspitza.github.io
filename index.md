@@ -1,7 +1,7 @@
 # Welcome to my webpage!
 
-- I'm a post doc in Economics at CREST in Paris (ENSAE / IP). In my research, I use data from online job search and recruitment to investigate how labour market imperfections shape job finding and wages
-- I obtained my PhD from the University of Lausanne under supervision of [Rafael Lalive](https://sites.google.com/site/rafaellalive/) and [Michael Siegenthaler](https://sites.google.com/site/siegenthalermichael/home). I visited the LSE (CEP), on the invitation of [Alan Manning](https://en.wikipedia.org/wiki/Alan_Manning) and ETH Zurich (KOF Swiss Economic Institute) invited by Michael Siegenthaler
+- I'm Head of Event & Guest Management at IZA - Institute of Labor Economics. I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide and am an expert for project management, customer support and administrative consulting supporting researcher's visions. 
+- I obtained my diploma in business administration and China Studies from the University of Cologne in Germany with a focus on marketing, brand management and business psychology.
 
 ***
 
