@@ -51,7 +51,8 @@ BMAS Forschungsreports 2021-2024 (German)
 ***
 #### Red Bull
 2006 - 2012
-*Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief. *
+
+*Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief.*
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_rb')">Publication projects</button>
 <div id="abstract_click_rb" class="abstract">
