@@ -9,15 +9,16 @@
 ## Professional Experience 
 
 
-####  Labor market imbalances, job search scopes and job finding
-In progress; solo-authored
+####  IZA - Institute of Labor Economics
+2012 - today
 
-*Presented at UC Berkeley Labor Lunch (Apr 2025), PSE Applied Economics Lunch (Feb 2025), EALE 2024 Bergen (Sep 2024), SKILS Ski and Labor Seminar Lenzerheide (Jan 2024), IZA Workshop: Matching Workers and Jobs Online (Sep 2023), LSE Labour WIP Seminar (Mar 2023)*
+*My key responsibilities include: Project, Budget & People Management, Communication, Situational Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization*
 
-<button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">Show abstract</button>
+<button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">More details</button>
 <div id="abstract_click_search_scopes" class="abstract">
- This paper investigates how jobseekers adjust the breadth of their search across different segments of the labour market and how such adjustments affect employment outcomes. Imbalances often exist between jobseekers and vacancies in certain occupations or regions, potentially creating opportunities for jobseekers to adjust their search strategies and target segments where demand for them is high.
- I use a unique dataset that combines administrative unemployment records with detailed click data on job postings to measure search scope. I focus on two dimensions of breadth: the distance between a jobseeker’s residence and the posted job, and the local labour market tightness in the commuting zone–occupation segments. A key challenge is that jobseekers self-select into their search strategies. To address this, I exploit exogenous variation in the assignment of jobseekers to caseworkers, whose distinct tendencies influence jobseekers’ subsequent search patterns. I then link these caseworker-induced shifts in search scope to unemployment duration and job quality. My findings suggest that encouraging broader job search or targeting sectors with high labour demand surpluses has measurable effects on reemployment prospects and can alleviate mismatches between labour supply and demand. These results provide policy-relevant insights on how targeted counselling can shape jobseekers’ behaviour and improve labour market efficiency.
+ I serve as the central interface between all departments (CEO, CFO, PR, HR, IT, Accounting, Legal, Research Units), integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network. I manage the “IZA Call for Papers” Newsletter and coordinate the seminar & visiting scholar program.
+I have successfully optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
+Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.
  </div>
 
 
