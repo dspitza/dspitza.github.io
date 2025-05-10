@@ -29,7 +29,7 @@ I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar &
 <li>2021: My team was responsible for nationwide communication with 150 federal employment agencies as part of a research project commissioned by the Federal Ministry (BMAS).</li>
 <li>2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</li></ul></div>
 
-<button class="show-button" onclick="toggleAbstract('abstract_click_event')">Event highlights</button>
+<button class="show-button" onclick="toggleAbstract('abstract_click_monopsony')">Event highlights</button>
 <div id="abstract_click_monopsony" class="abstract">
 <ul><li>World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London</li> 
 <li>24th EALE Conference 2012 | <i>WCCB (former House of Representatives, Bonn)</i></li> 
