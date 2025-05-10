@@ -22,10 +22,10 @@ Recruiting staff and managing reliable service providers in an international con
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scopes')">Milestones of my work</button>
 <div id="abstract_click_search_scopes" class="abstract">
-<ul>2023: I have spearheaded the conceptualization, development and implementation of a web-based guest management system as part of the "digitalization of recurring processes".
-2022: I held the overall project management role for a change management process, redesigning over 800 event landing pages, enhancing external communication, user experience and design consistency. 
-2021: My team was responsible for nationwide communication with 150 federal employment agencies as part of a research project commissioned by the Federal Ministry (BMAS).
-2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</ul>
+<ul><li>2023: I have spearheaded the conceptualization, development and implementation of a web-based guest management system as part of the "digitalization of recurring processes".</li>
+<li>2022: I held the overall project management role for a change management process, redesigning over 800 event landing pages, enhancing external communication, user experience and design consistency. </li>
+<li>2021: My team was responsible for nationwide communication with 150 federal employment agencies as part of a research project commissioned by the Federal Ministry (BMAS).</li>
+<li>2020: My team introduced online and hybrid events in record time, using state-of-the-art technology.</li></ul>
 </div>
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_monopsony')">Event highlights</button>
@@ -36,15 +36,16 @@ Recruiting staff and managing reliable service providers in an international con
 <li>Topic Workshops | Environment, Climate, Education, Migration, Gender, Data</li> 
 <li>Policy Workshops | OECD, European Commission, BMAS & BMFSFJ</li> 
 <li>IZA Summer Schools | Berlin, Bonn, am Ammersee </li> 
-<li>Tower Talks at Deutsche Post | with Friedrich Merz, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</li> </ul>
+<li>Tower Talks at Deutsche Post | with Friedrich Merz, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</li></ul>
 </div>
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publication projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
-*BMAS Forschungsreports 2021-2024 (German)*
-    <ul><li>[Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html)</li>
-        <li>[Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html)</li>
-        <li>[Evaluation der berufsbezogenen Deutschsprachförderung](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html)</li>
+BMAS Forschungsreports 2021-2024 (German)
+<ul>BMAS Forschungsreports 2021-2024 (German)
+<li>[Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html)</li>
+<li>[Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html)</li>
+<li>[Evaluation der berufsbezogenen Deutschsprachförderung](https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html)</li>
 </ul>
 </div>
 
