@@ -1,5 +1,5 @@
 ---
-title: Dominik Spitza | CV
+title: Dominik Spitza
 ---
 
 ## Welcome to my webpage!
