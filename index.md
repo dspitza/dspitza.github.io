@@ -77,7 +77,7 @@ BMAS Researchreports 2021-2024 (German)
 2011 & 2021
 
 *Event management, Coordination and implementation of side program: Promotional activities, staff delegation, various live performances. 
-Highlight: Award ceremony with <b>Gerhard Schröder</b> (Bundeskanzler a. D.).*
+Highlight: Award ceremony with <a href="https://www.bundeskanzler.de/bk-en/chancellery/federal-chancellors-since-1949/gerhard-schroeder">Gerhard Schröder</a> (Bundeskanzler a. D.).*
 
 ***
 
