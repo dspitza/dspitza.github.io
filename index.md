@@ -12,11 +12,11 @@
 ####  IZA - Institute of Labor Economics
 2012 - today
 
-*My key responsibilities as *[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)* at [IZA - Institute of Labor Economics](https://www.iza.org/) of Deutsche Post Stiftung include: Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization*
+My key responsibilities as <i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at [IZA - Institute of Labor Economics](https://www.iza.org/) of Deutsche Post Stiftung include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization</i>
 
-*I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network.*
+I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network.
 
-*I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar & visiting scholar program.*
+I manage the “<i>IZA Call for Papers</i>” Newsletter and coordinate the seminar & visiting scholar program.
 
 *I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.*
 
