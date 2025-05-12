@@ -39,7 +39,7 @@
 <li>Topic Workshops | <i>Environment, Climate, Education, Migration, Gender, Data</i></li> 
 <li>Policy Workshops | <i>OECD, European Commission, BMAS & BMFSFJ</i></li> 
 <li><a href="https://conference.iza.org/conference_files/SummerSchool_2023/program">IZA Summer Schools</a> | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
-<li>Tower Talks at Deutsche Post | <i>with <b>Friedrich Merz</b>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul>
+<li>Tower Talks at Deutsche Post | <i>with <a href="https://www.bundeskanzler.de/bk-en/friedrich-merz">Friedrich Merz</a>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul>
 </div>
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publicated projects</button>
