@@ -57,16 +57,25 @@ BMAS Researchreports 2021-2024 (German)
 <button class="show-button" onclick="toggleAbstract('abstract_click_rb')">Highlights</button>
 <div id="abstract_click_rb" class="abstract">
 <ul><li>“Rock am Ring” (2008 – 2011)</li>
-    <li>“Red Bull Gravity Challenge” (2007)</li>
-    <li>“Red Bull Flugtag” (2006).</li></ul>
+    <li>“Gravity Challenge” (2007)</li>
+    <li>“Flugtag” (2006).</li>
+    <li>"Can you make it?" (2008)</li></ul>
 </div>
 ***
-## Freelance
+## Freelance & Projects
 
 #### OSK 
 2009 - 2012
 
 *Strategic research and analysis projects for automotive infotainment and audio systems, e.g. on BMW Group. Concept and execution support for marketing activation e.g. “MINI in Concert” Roadshow, and “AMG Performance Tour”.*
+
+***
+
+#### Borkum Open / b.fit 
+2011 & 2021
+
+*Event management, Coordination and implementation of side program: Promotional activities, staff delegation, various live performances. 
+Highlight: Award ceremony with <b>Gerhard Schröder</b> (Bundeskanzler a. D.).*
 
 ***
 
