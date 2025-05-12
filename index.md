@@ -1,3 +1,7 @@
+---
+title: Dominik Spitza | CV
+---
+
 ## Welcome to my webpage!
 
 - My name is Dominik Spitza and I am an expert for events, scientific project management, customer service and administrative Consulting to support researchers’ visions and projects.
