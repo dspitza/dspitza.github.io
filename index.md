@@ -104,7 +104,7 @@ Online communication, website-analytics, conversions-tracking, SEO, ads, targeti
 ## Education
 
 #### University of Cologne
-Diploma in Business Administration and China Studies (Regional Studies China)
+<b>Diploma in Business Administration and China Studies (Regional Studies China)</b>
 
 Marketing and Brand Management B.A., Prof. Völckner 
 Business Psychology B.A., Prof. Fetchenhauer
