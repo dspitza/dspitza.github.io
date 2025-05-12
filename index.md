@@ -22,7 +22,6 @@
 
 *Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.*
 
-*[IZA 25th anniversary event in Berlin](https://newsroom.iza.org/en/archive/news/iza-25th-anniversary-event-in-berlin/): Successful international research conference and policy panel on the German labor market with <a href="https://www.bundesregierung.de/breg-en/federal-cabinet/1988638-1988638">Hubertus Heil</a> (German Federal Minister of Labor and Social Affairs), <a href="https://www.sachverstaendigenrat-wirtschaft.de/en/about-us/council-members/prof-dr-monika-schnitzer.html">Monika Schnitzer</a> (Chair of the German Council of Economic Experts), <a href="https://www.iza.org/people/fellows/1348/uta-schonberg">Uta Schönberg</a> (University College London) and <a href="https://www.hks.harvard.edu/faculty/jason-furman">Jason Furman</a> (Harvard Kennedy School), moderated by <a href="https://mediadirectory.economist.com/people/christian-odendahl/">Christian Odendahl</a> (The Economist).*
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scope')">Milestones of my work</button>
 <div id="abstract_click_search_scope" class="abstract">
@@ -33,7 +32,8 @@
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_monopsony')">Event highlights</button>
 <div id="abstract_click_monopsony" class="abstract">
-<ul><li>World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London</li> 
+<ul><li><a href="https://newsroom.iza.org/en/archive/news/iza-25th-anniversary-event-in-berlin/">IZA 25th anniversary event in Berlin</a>: Successful international research conference and policy panel on the German labor market with <a href="https://www.bundesregierung.de/breg-en/federal-cabinet/1988638-1988638">Hubertus Heil</a> (German Federal Minister of Labor and Social Affairs), <a href="https://www.sachverstaendigenrat-wirtschaft.de/en/about-us/council-members/prof-dr-monika-schnitzer.html">Monika Schnitzer</a> (Chair of the German Council of Economic Experts), <a href="https://www.iza.org/people/fellows/1348/uta-schonberg">Uta Schönberg</a> (University College London) and <a href="https://www.hks.harvard.edu/faculty/jason-furman">Jason Furman</a> (Harvard Kennedy School), moderated by <a href="https://mediadirectory.economist.com/people/christian-odendahl/">Christian Odendahl</a> (The Economist).<i/>
+    <li>World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London</li> 
 <li>24th EALE Conference 2012 | <i>WCCB (former House of Representatives, Bonn)</i></li> 
 <li>AEA ASSA Meetings: receptions, press booth| <i>in Boston, San Diego, Philadelphia</i></li> 
 <li>Topic Workshops | <i>Environment, Climate, Education, Migration, Gender, Data</i></li> 
