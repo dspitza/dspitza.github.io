@@ -106,9 +106,9 @@ Online communication, website-analytics, conversions-tracking, SEO, ads, targeti
 #### University of Cologne
 <b>Diploma in Business Administration and China Studies (Regional Studies China)</b>
 
-Marketing and Brand Management B.A., Prof. Völckner 
-Business Psychology B.A., Prof. Fetchenhauer
-Chinese Language, Modern China Studies (Law, culture, social sciences, history, literature)
+Marketing and Brand Management B.A., Prof. Völckner<br>
+Business Psychology B.A., Prof. Fetchenhauer<br>
+Chinese Language, Modern China Studies (Law, culture, social sciences, history, literature)<br>
 Thesis: Dirty Surplus Accounting – Presentation of International Accounting Standards and Systematization of Descriptive Empirical Findings, Prof. Sievers
  
 ***
