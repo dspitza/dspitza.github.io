@@ -38,7 +38,7 @@
 <li>AEA ASSA Meetings: receptions, press booth| <i>in Boston, San Diego, Philadelphia</i></li> 
 <li>Topic Workshops | <i>Environment, Climate, Education, Migration, Gender, Data</i></li> 
 <li>Policy Workshops | <i>OECD, European Commission, BMAS & BMFSFJ</i></li> 
-<li>IZA Summer Schools | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
+<li><a href="https://conference.iza.org/conference_files/SummerSchool_2023/program">IZA Summer Schools</a> | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
 <li>Tower Talks at Deutsche Post | <i>with <b>Friedrich Merz</b>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul>
 </div>
 
