@@ -1,7 +1,7 @@
 # Welcome to my webpage!
 
-- My name is Dominik Spitza and I am an expert for scientific project management, customer support and administrative Consulting to support researchers’ visions and projects.
-- As *[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)* at [IZA - Institute of Labor Economics](https://www.iza.org/) of Deutsche Post Stiftung I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
+- My name is Dominik Spitza and I am an expert for events, scientific project management, customer support and administrative Consulting to support researchers’ visions and projects.
+- I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
 - I obtained my diploma in business administration and China Studies from the University of Cologne in Germany with a focus on marketing, brand management and business psychology.
 
 ***
@@ -12,13 +12,13 @@
 ####  IZA - Institute of Labor Economics
 2012 - today
 
-*My key responsibilities include: Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization*
+*My key responsibilities as *[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)* at [IZA - Institute of Labor Economics](https://www.iza.org/) of Deutsche Post Stiftung include: Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization*
 
 *I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network.*
 
-I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar & visiting scholar program.
+*I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar & visiting scholar program.*
 
-*I have successfully optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.*
+*I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.*
 
 *Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.*
 
@@ -33,7 +33,7 @@ I manage the *“IZA Call for Papers”* Newsletter and coordinate the seminar &
 <div id="abstract_click_monopsony" class="abstract">
 <ul><li>World Bank and UK Aid (DFID/FCDO) Development Conferences | in Bonn, Lima, New Delhi, W. DC, Addis Ababa, Lusaka, Dhaka, Nairobi, London</li> 
 <li>24th EALE Conference 2012 | <i>WCCB (former House of Representatives, Bonn)</i></li> 
-<li>AEA ASSA Meetings | <i>in Boston, San Diego, Philadelphia</i></li> 
+<li>AEA ASSA Meetings: receptions, press booth| <i>in Boston, San Diego, Philadelphia</i></li> 
 <li>Topic Workshops | <i>Environment, Climate, Education, Migration, Gender, Data</i></li> 
 <li>Policy Workshops | <i>OECD, European Commission, BMAS & BMFSFJ</i></li> 
 <li>IZA Summer Schools | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
