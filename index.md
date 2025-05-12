@@ -9,10 +9,10 @@
 ## Professional Experience 
 
 
-####  IZA - Institute of Labor Economics
+####  [IZA - Institute of Labor Economics](https://www.iza.org/)
 2012 - today
 
-My key responsibilities as <i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at [IZA - Institute of Labor Economics](https://www.iza.org/) of Deutsche Post Stiftung include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization</i>
+My key responsibilities as <i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization</i>
 
 I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network.
 
@@ -49,8 +49,10 @@ BMAS Researchreports 2021-2024 (German)
 <li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html">Evaluation der berufsbezogenen Deutschsprachförderung</a></li>
 </ul>
 </div>
+
 ***
-#### Red Bull
+
+#### [Red Bull](https://www.redbull.com/de-de)
 2006 - 2012
 
 *Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief.*
@@ -65,14 +67,14 @@ BMAS Researchreports 2021-2024 (German)
 ***
 ## Freelance & Projects
 
-#### OSK 
+#### [OSK](https://www.osk.de/) 
 2009 - 2012
 
 *Strategic research and analysis projects for automotive infotainment and audio systems, e.g. on BMW Group. Concept and execution support for marketing activation e.g. “MINI in Concert” Roadshow, and “AMG Performance Tour”.*
 
 ***
 
-#### Borkum Open / b.fit 
+#### [Borkum Open](https://www.borkum-open.de/) / [b.fit](https://www.bfit.net/) 
 2011 & 2021
 
 *Event management, Coordination and implementation of side program: Promotional activities, staff delegation, various live performances. 
