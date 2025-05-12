@@ -111,9 +111,13 @@ Business Psychology B.A., Prof. Fetchenhauer
 Chinese Language, Modern China Studies (Law, culture, social sciences, history, literature)
 Thesis: Dirty Surplus Accounting – Presentation of International Accounting Standards and Systematization of Descriptive Empirical Findings, Prof. Sievers
  
-
 ***
 
+#### Xiamen Ocean University
+DAAD Scholar (Deutscher Akademischer Austausch Dienst) in Fujian/China 
+
+
+***
 <script>
     // JavaScript function to toggle visibility
     function toggleAbstract(id) {
