@@ -104,7 +104,7 @@ Online communication, website-analytics, conversions-tracking, SEO, ads, targeti
 ## Teaching
 
 #### China University of Mining & Technology 
-*German courses of culture and language at CUMT, Xuzhou for a Chinese student exchange program in cooperation with the University of Duisburg-Essen.*
+German courses of culture and language at CUMT, Xuzhou for a Chinese student exchange program in cooperation with the University of Duisburg-Essen.
 
 ***
 
