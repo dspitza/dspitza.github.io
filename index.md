@@ -22,9 +22,9 @@ I serve as the central interface between all departments, integrating cross-func
 
 I manage the “<i>IZA Call for Papers</i>” Newsletter and coordinate the seminar & visiting scholar program.
 
-*I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.*
+I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
 
-*Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.*
+Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.
 
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scope')">Milestones of my work</button>
@@ -59,7 +59,7 @@ BMAS Researchreports 2021-2024 (German)
 #### [Red Bull](https://www.redbull.com/de-de)
 2006 - 2012
 
-*Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief.*
+Brand-, Guerilla-, Live- und Sales marketing in Sports & FMCG: Trend-scouting, market analysis, PR, branding, sampling, sponsoring. Event management: organization, concept development, budgeting, administration/ coordination, staff delegation, implementation, debrief.
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_rb')">Highlights</button>
 <div id="abstract_click_rb" class="abstract">
@@ -74,15 +74,15 @@ BMAS Researchreports 2021-2024 (German)
 #### [OSK](https://www.osk.de/) 
 2009 - 2012
 
-*Strategic research and analysis projects for automotive infotainment and audio systems, e.g. on BMW Group. Concept and execution support for marketing activation e.g. “MINI in Concert” Roadshow, and “AMG Performance Tour”.*
+Strategic research and analysis projects for automotive infotainment and audio systems, e.g. on BMW Group. Concept and execution support for marketing activation e.g. “MINI in Concert” Roadshow, and “AMG Performance Tour”.
 
 ***
 
 #### [Borkum Open](https://www.borkum-open.de/) / [b.fit](https://www.bfit.net/) 
 2011 & 2021
 
-*Event management, Coordination and implementation of side program: Promotional activities, staff delegation, various live performances. 
-Highlight: Award ceremony with <a href="https://www.bundeskanzler.de/bk-en/chancellery/federal-chancellors-since-1949/gerhard-schroeder">Gerhard Schröder</a> (Bundeskanzler a. D.).*
+Event management, Coordination and implementation of side program: Promotional activities, staff delegation, various live performances. 
+Highlight: Award ceremony with <a href="https://www.bundeskanzler.de/bk-en/chancellery/federal-chancellors-since-1949/gerhard-schroeder">Gerhard Schröder</a> (Bundeskanzler a. D.).
 
 ***
 
