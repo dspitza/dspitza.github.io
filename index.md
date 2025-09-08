@@ -4,7 +4,7 @@ title: Dominik Spitza
 
 ## Welcome to my webpage!
 
-- My name is Dominik Spitza and I am an expert for events, scientific project management, customer service and administrative Consulting to support researchers’ visions and projects.
+- My name is Dominik Spitza and I am an expert for events, project management, customer service and administrative Consulting to support organisational visions and projects.
 - I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
 - I obtained my diploma in business administration and China Studies from the University of Cologne in Germany with a focus on marketing, brand management and business psychology.
 
@@ -12,13 +12,20 @@ title: Dominik Spitza
 
 ## Professional Experience 
 
+####  [Düsseldorf Chamber of Industry and Commerce (IHK)](https://www.ihk.de/duesseldorf/)
+2025 - today
+
+
+My key responsibilities as <i>[Teamlead Event Management](https://www.ihk.de/duesseldorf/organigramm/telefonliste-4807580)</i> at IHK include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Contracting & Customer Relations, Risk- & Quality Management, Process Optimization</i>
+
+I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our department directors and maintain external communication with IHK's members and customers.
+
+***
 
 ####  [IZA - Institute of Labor Economics](https://www.iza.org/)
-2012 - today
+2012 - 2025
 
-My key responsibilities as <i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Event Booking & Logistics, Travel & Expenses, Risk- & Quality Management, Process Optimization</i>
-
-I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our research directors and maintain external communication with over 4,500 researchers within the global economics network.
+<i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
 
 I manage the “<i>IZA Call for Papers</i>” Newsletter and coordinate the seminar & visiting scholar program.
 
