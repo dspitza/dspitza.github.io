@@ -25,7 +25,7 @@ I serve as the central interface between all departments, integrating cross-func
 ***
 
 ####  [IZA - Institute of Labor Economics](https://www.iza.org/)
-2012 - 2025
+2024 - 2025
 
 <i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
 
@@ -53,6 +53,14 @@ Recruiting staff and managing reliable service providers in an international con
 <li>Policy Workshops | <i>OECD, European Commission, BMAS & BMFSFJ</i></li> 
 <li><a href="https://conference.iza.org/conference_files/SummerSchool_2023/program">IZA Summer Schools</a> | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
 <li>Tower Talks at Deutsche Post | <i>with <a href="https://www.bundeskanzler.de/bk-en/friedrich-merz">Friedrich Merz</a>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul></div>
+
+2015 - 2024
+
+<i>[Senior Eventmanager](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
+
+2012 - 2015
+
+<i>[Eventmanager](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publicated projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
