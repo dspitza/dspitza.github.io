@@ -17,8 +17,9 @@ title: Dominik Thieme-Spitza
 ####  [Düsseldorf Chamber of Industry and Commerce (IHK)](https://www.ihk.de/duesseldorf/)
 2025 - today
 
+[Teamlead Event Management](https://www.ihk.de/duesseldorf/organigramm/telefonliste-4807580)
 
-My key responsibilities as <i>[Teamlead Event Management](https://www.ihk.de/duesseldorf/organigramm/telefonliste-4807580)</i> at IHK include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Contracting & Customer Relations, Risk- & Quality Management, Process Optimization</i>
+My key responsibilities include: <i>Event, Project, Budget & People Management, Communication, Leadership, Concept, Marketing & Promotion, Contracting & Customer Relations, Risk- & Quality Management, Process Optimization</i>
 
 I serve as the central interface between all departments, integrating cross-functional strategies into operational processes. I report directly to the executive management, collaborate on strategy development with our department directors and maintain external communication with IHK's members and customers.
 
@@ -34,6 +35,14 @@ I managed the “<i>IZA Call for Papers</i>” Newsletter and coordinate the sem
 I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
 
 Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.
+
+2015 - 2024
+
+<i>[Senior Eventmanager](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
+
+2012 - 2015
+
+<i>[Eventmanager](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
 
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_search_scope')">Milestones of my work</button>
@@ -53,14 +62,6 @@ Recruiting staff and managing reliable service providers in an international con
 <li>Policy Workshops | <i>OECD, European Commission, BMAS & BMFSFJ</i></li> 
 <li><a href="https://conference.iza.org/conference_files/SummerSchool_2023/program">IZA Summer Schools</a> | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
 <li>Tower Talks at Deutsche Post | <i>with <a href="https://www.bundeskanzler.de/bk-en/friedrich-merz">Friedrich Merz</a>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul></div>
-
-2015 - 2024
-
-<i>[Senior Eventmanager](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
-
-2012 - 2015
-
-<i>[Eventmanager](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
 
 <button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publicated projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
