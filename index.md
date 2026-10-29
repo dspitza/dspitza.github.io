@@ -1,14 +1,14 @@
 ---
-title: Dominik Spitza
+title: Dominik Thieme-Spitza
 ---
 
 ## Welcome to my webpage!
 
-I am Dominik Thieme-Spitza, an experienced professional in international event management, project leadership, customer service, and organizational consulting, with a strong track record of turning strategic visions into successful projects.
+- I am Dominik Thieme-Spitza, an experienced professional in international event management, project leadership, customer service, and organizational consulting, with a strong track record of turning strategic visions into successful projects.
 
-Having managed the full lifecycle of more than 150 international conferences and high-level policy events worldwide, I currently lead event operations, venue rentals, marketing, and the modernization of state-of-the-art event spaces in the heart of Düsseldorf.
+- Having managed the full lifecycle of more than 150 international conferences and high-level policy events worldwide, I currently lead event operations, venue rentals, marketing, and the modernization of state-of-the-art event spaces in the heart of Düsseldorf.
 
-I hold a diploma in Business Administration and Chinese Studies from the University of Cologne, Germany, specializing in marketing, brand management, and business psychology.
+- I hold a diploma in Business Administration and Chinese Studies from the University of Cologne, Germany, specializing in marketing, brand management, and business psychology.
 
 ***
 
