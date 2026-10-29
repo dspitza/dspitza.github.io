@@ -29,7 +29,7 @@ I serve as the central interface between all departments, integrating cross-func
 
 <i>[Head of Event & Guest Management](https://www.iza.org/person/8053/dominik-spitza)</i> at IZA of Deutsche Post Stiftung.
 
-I manage the “<i>IZA Call for Papers</i>” Newsletter and coordinate the seminar & visiting scholar program.
+I managed the “<i>IZA Call for Papers</i>” Newsletter and coordinate the seminar & visiting scholar program.
 
 I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
 
