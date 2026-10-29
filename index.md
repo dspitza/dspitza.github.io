@@ -4,9 +4,11 @@ title: Dominik Spitza
 
 ## Welcome to my webpage!
 
-- My name is Dominik Spitza and I am an expert for events, project management, customer service and administrative Consulting to support organisational visions and projects.
-- I have overseen the full lifecycle of more than 150 international conferences & policy events worldwide. 
-- I obtained my diploma in business administration and China Studies from the University of Cologne in Germany with a focus on marketing, brand management and business psychology.
+I am Dominik Thieme-Spitza, an experienced professional in international event management, project leadership, customer service, and organizational consulting, with a strong track record of turning strategic visions into successful projects.
+
+Having managed the full lifecycle of more than 150 international conferences and high-level policy events worldwide, I currently lead event operations, venue rentals, marketing, and the modernization of state-of-the-art event spaces in the heart of Düsseldorf.
+
+I hold a diploma in Business Administration and Chinese Studies from the University of Cologne, Germany, specializing in marketing, brand management, and business psychology.
 
 ***
 
