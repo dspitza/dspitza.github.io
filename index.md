@@ -32,7 +32,7 @@ I serve as the central interface between all departments, integrating cross-func
 
 I managed the “<i>IZA Call for Papers</i>” Newsletter and coordinate the seminar & visiting scholar program.
 
-I have continously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
+I have continuously optimized key administrative processes, such as travel & expenses, digital conference management, project meeting structures, communication strategies, event planning and onboarding processes.
 
 Recruiting staff and managing reliable service providers in an international context, as well as establishing intercultural sensitivity and overseeing safety management for domestic and international events are further key parts of my responsibilities.
 
@@ -63,9 +63,9 @@ Recruiting staff and managing reliable service providers in an international con
 <li><a href="https://conference.iza.org/conference_files/SummerSchool_2023/program">IZA Summer Schools</a> | <i>Berlin, Bonn, DHL Management Center in Buch am Ammersee</i></li> 
 <li>Tower Talks at Deutsche Post | <i>with <a href="https://www.bundeskanzler.de/bk-en/friedrich-merz">Friedrich Merz</a>, Anke Hassel, Wolfgang Clement, Angela Titzrath, Aiman Mazyek, Reiner Hoffmann, Annegret Schnell</i></li></ul></div>
 
-<button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Publicated projects</button>
+<button class="show-button" onclick="toggleAbstract('abstract_click_occ_mob')">Published projects</button>
 <div id="abstract_click_occ_mob" class="abstract">
-BMAS Researchreports 2021-2024 (German) 
+BMAS research reports 2021-2024 (German) 
 <ul><li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-587-arbeitsmarktpolitische-integrationsma%C3%9Fnahmen-gefluechtete.html">Begleitevaluation der arbeitsmarktpolitischen Integrationsmaßnahmen für Geflüchtete</a></li>
 <li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-570-6-arbeitssituation-belastungsempfinden-corona-pandemie-juni-2021.html?cms_documentType_=pbbook&cms_showNoDocType=true&cms_templateQueryString=arbeitssituation-belastungsempfinden-corona-pandemie.html">Arbeitssituation und Belastungsempfinden im Kontext der Corona-Pandemie</a></li>
 <li><a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-635-evaluation-berufsbezogene-deutschsprachfoerderung-45a-aufenthg.html">Evaluation der berufsbezogenen Deutschsprachförderung</a></li>
